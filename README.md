@@ -1,2 +1,8 @@
-# clinical-recovery-prediction
-Clinical Recovery Prediction by Regression in Python is a data science and healthcare project that uses regression algorithms to predict a patient's recovery outcome based on medical data. In this project, patient information such as age, symptoms, medical test results, and treatment details is collected and analyzed using Python programming.
+## 📊 Dataset
+clinical_recovery_linear_regression.csv
+
+## 📈 Result
+MAE ≈ 1.97
+
+## ▶️ How to Run
+Open .ipynb file in Google Colab and run all cells.
